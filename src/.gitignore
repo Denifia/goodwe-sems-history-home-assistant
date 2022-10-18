@@ -1,2 +1,8 @@
 bin/
 obj/
+
+# cached sems payloads
+dump/
+
+# test db
+home-assistant_v2.db
